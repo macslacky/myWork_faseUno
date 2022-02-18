@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">myWork</string>
+
+    <string name="urlWeb">https://www.ribosoft.info/myWork/</string>
+    <string name="urlPost">mywork.php</string>
+
+    <string name="operatore">Operatore:</string>
+    <string name="login">login:</string>
+    <string name="btnlogin">login</string>
+    <string name="codop">CodOp</string>
+    <string name="byribo">by RiboSoft</string>
+
+    <string name="riposo">Riposo</string>
+    <string name="libero">Libero</string>
+    <string name="ferie">Ferie</string>
+
+    <string name="TURNI">TURNI SETTIMANALI</string>
+    <string name="Data1">Data</string>
+    <string name="Ingresso">Ingresso:</string>
+    <string name="Uscita">Uscita:</string>
+    <string name="note">note</string>
+</resources>
